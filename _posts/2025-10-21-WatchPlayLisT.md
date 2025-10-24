@@ -6,8 +6,20 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+# (1996) Ghost In The Shell 
+[Manga Video English Dub]
+<iframe src="https://archive.org/embed/ghost-in-the-shell_202205" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[1996](https://www.youtube.com/watch?v=iHil4Y4r3Wk) @TheSpaceDevs @BlackGirlsCode
+ [Ghost in the Shell: Solid State Society](https://archive.org/details/gits-sss/GITS_SSS.ISO)
+ <iframe src="https://archive.org/embed/psx_gits" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ [2 Hours of Anime Trailers from the 90s - kcsnipes @youtube](https://www.youtube.com/watch?v=MSzL3s59Cm8)
+
 # Berserk (1997 )
 ##  ベルセルク [imdb](https://www.imdb.com/title/tt0318871/)
+[mirror](https://archive.org/details/anime-rg_berserk_1080p_1997)
 <iframe src="https://archive.org/embed/berserk-episode-16" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Mobile Suit Gundam I (1981)
