@@ -13,9 +13,10 @@ What's Next? (Live Public Talk)
 
 [@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
 
+## NASA ARSET: Mapping Invasive Grassland Plant Species with Hyperspectral Remote Sensing, Part 3/3
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGxUoCKbrFs?si=duAj7MIpCE0u34Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## NASA ARSET: Mapping Invasive Grassland Plant Species with Hyperspectral Remote Sensing, Part 3/3
+
 <img  alt="image" src="https://github.com/user-attachments/assets/63b64e91-7a0e-4192-af0a-569f35b708c6" />
 
 ![canberra @blackgirlscode @normani ilobeu](https://www.nasa.gov/wp-content/uploads/2023/08/canberra-dss-43-29.jpg?resize=1024,724)
