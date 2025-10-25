@@ -3,16 +3,304 @@ layout: rashardmro
 mermaid: true
 published: true
 tags: work code jpl LA frontpage sub
-title: WebSiteChangEconTrol @CityOfLosAngeles @Nasa-jpl
+title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-18 11:51:06 
+date:   2025-10-22 16:51:06 
 permalink: /changelog
 ---
+
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. 
+
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+@nasa our @soundcloud should be reviewd 
+`https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response`
+This track was not found. Maybe it has been removed
+Learn more, some files are not loading [https://soundcloud.com/nasa/sets/sounds-from-mars](https://soundcloud.com/nasa/sets/sounds-from-mars)
+[LiNK](https://soundcloud.com/nasa/houston-we-have-a-podcast-natural-disaster-response)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/68597490-55e8-42ee-872f-6b5a93daae08" />
+
+<img alt="image @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/251c816d-ff8f-43ad-bb66-7452d6db385c" />
+
+
+
+EARTHDATA LOGIN
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconve... Learn More 
+404 Resource Not Found
+The page you were looking for doesn't exist.
+You may have mistyped the address or the page may have moved.
+
+There has been an error processing your request. Please refer to the ID "6a9ec903-8742-4f95-bbdb-3a5028e9b7fa" when contacting [Earthdata Operations](https://www.earthdata.nasa.gov/).
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
+
+`https://wiki.earthdata.nasa.gov/login.action?sso=false`
+[https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
+
+
+[Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
+
+# For Review
+## Rogue [NASA](https://www.congress.gov/crs-product/R43419)
+[https://bsky.app/profile/roguenasa.altgov.info](https://bsky.app/profile/roguenasa.altgov.info)
+[@roguenasa.altgov.info](@roguenasa.altgov.info)
+75.3K followers
+432 following
+561 posts
+Not an official NASA account. Come for the facts, stay for the snark.🥄
+
+Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
+
+
+This site can’t be reachedThe connection was reset.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_RESET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1078e4d5-5615-4373-9e32-0f91626368ef" />
+
+
+Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
+@STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed unstable but and that makes the site look current... [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
+[https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/af7fba41-5244-4290-9417-30380f09a60e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01365909-f48a-40a5-8725-0611bec58292" />
+
+
+# Nasa Firms
+Due to the lapse in federal government funding, NASA is not updating this website, and some data/information may be temporarily unavailable. We sincerely regret this inconvenience.
+Regards,
+The FIRMS [Team](https://www.earthdata.nasa.gov/data/projects/lance/people)
+[https://www.earthdata.nasa.gov/data/projects/lance/people](https://www.earthdata.nasa.gov/data/projects/lance/people) @nasa-pds
+[Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current 
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
+[https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
+
+like this fire near [Victorville](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs;l:fires_all,countries,earth;@-117.40,34.40,9.67z)
+
+`34.51248	-117.38805	340.24	0.43	0.38	2025-10-22 13:38:00	N21	VIIRS	n	2.0NRT	304.46	2.88	D`
+current time accordint to the share place - [4:01pm](https://www.time.gov/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3140b6-2c21-4e24-bed5-fe9ef3355277" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e84747b4-aca4-405e-af51-f6406902606a" />
+
+@NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! [https://www.univoip.com/](https://www.univoip.com/) is the provider and i dont know if they are stable, the whole operation could run off a cellphone @CityofLosAngeles [Karen Bass](https://igs.berkeley.edu/people/karen-bass) 
+
+```shell
+Microsoft Windows [Version 10.0.19045.6456]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Volunteer>tracert univoip.com
+
+Tracing route to univoip.com [199.60.103.38]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1
+  2     1 ms    34 ms    43 ms  vcg10.lsaj01-ca.us.windstream.net [40.137.251.13]
+  3    22 ms    62 ms    23 ms  h12.48.134.40.static.ip.windstream.net [40.134.48.12]
+  4    22 ms    27 ms    34 ms  ae11-15.pe02.lsaj01-ca.us.windstream.net [74.124.244.106]
+  5    32 ms    21 ms    22 ms  ae6.cr04.lsaj01-ca.us.windstream.net [169.130.164.250]
+  6     *        *        *     Request timed out.
+  7    22 ms    39 ms    22 ms  141.101.72.46
+  8    26 ms    23 ms    22 ms  199.60.103.38
+
+Trace complete.
+
+C:\Users\Volunteer>
+```
+
+
+
+
+# @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
+I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
+[AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
+[Amazon internet outage: What has happened and who is affected? -  Jennifer O'Keeffe](https://www.insidermedia.com/news/national/amazon-internet-outage-what-has-happened-and-who-is-affected)
+
+CloudFront is Amazon's Content Delivery Network (CDN) that caches and delivers data like static web content, videos, and APIs to end-users from edge locations closer to them, reducing latency and improving performance.
+[StatusGator](https://statusgator.com/services/amazon-web-services/amazon-cloudfront) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid037RWaUZ9aGidDPHgXSrTGcKoi5PWk1Hnn6a7FxMPsxXLqWRmhvEYaqM6Cygwe7UKkl%26id%3D100084464911565&show_text=false&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+https://health.aws.amazon.com/health/status President Donald J. Trump Office of the Governor of Pennsylvania Governor Newsom https://d34w7g4gy10iej.cloudfront.net/.../DOD_110409447... Los Angeles Press Club Los Angeles Times alot of vids are hosted with Amazon Web Services Immigration And Customs Enforcement (ICE) i dont know what you guys are doing however NASA/JPL Physical Oceanography Data Center is in County of Los Angeles Congressmember Karen Bass and we may be able to contribute to businesses and organizations in need... Karen Bass do you want #NAsA or #Spectrum for #DTLAWiFi ? NASA Technology -#rashard NASA Mars https://d34w7g4gy10iej.cloudfront.net/.../DOD_107547647... <~ Vandenberg Space Force Base
+
+[https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/ @nasa-jpl @cityofloangeles](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a76add7-6622-418e-b49b-8e82687c04c8" />
+
+historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
+
+### La fire screen-20250110-192022
+[BlogEntry](https://archive.org/details/screen-20250110-192022/VID_20250111_015250+(1).mp4) 
+```
+Fire
+I'm sick; some sort of magnet
+-rashard
+```
+I also mention interruptions at [SDOLAB](https://sdo.gsfc.nasa.gov/) as documented below & reply facebook/twitter campains featuring the sun , like someone else controls the data now. and Now I have no access @nasa-jpl @noaagov @weather-gov @stateofcalifornia @iceGov @dhs-gov @atfweb 
+<iframe src="https://archive.org/embed/screen-20250110-192022/VID_20250111_015250+(1).mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/0c0a15fc-ba17-47ef-a4c0-d2627eb16df2" />
+
+
+
+
+# NasaEarthdata Login
+[https://urs.earthdata.nasa.gov/](https://urs.earthdata.nasa.gov/)
+The Earthdata Login provides a single mechanism for user registration and profile management for all EOSDIS system components (DAACs, Tools, Services). Your Earthdata login also helps the EOSDIS program better understand the usage of EOSDIS services to improve user experience through customization of tools and improvement of services. EOSDIS data are openly available to all and free of charge except where governed by international agreements. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3fc83701-aeae-49f8-8925-7a41f3460c6f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/792de57d-ef08-4b5a-bfd7-d79af722f4fb" />
+
+https://github.com/rashardgds/rashardlearned/blob/master/_posts/2025-10-18-CHangeControl.md
+![SWOT @swot-community @weather-gov @blackgirlscode](https://swot.jpl.nasa.gov/assets/logo_websitetitle.svg) 
+[https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/) [github.com/SWOT-community](https://github.com/SWOT-community) @stateofcalifornia @emit-sds @nasa-jpl @dhs-gov @weather-gov @blackgirlscode
+[LEADERSHiP @nasa](https://science.nasa.gov/about-us/bios/)
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6327703e-4ddd-4262-96b1-d1766e2ecdc7" />
+
+ @nasa-pds you got the scary messages!!! 
+
+
+Image Credit: NASA/JPL-Caltech/Space Science Institute
+
+https://pds.nasa.gov/
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6b1b1d41-51fd-42a6-84f1-e11efdb01ffc" />
+
+
+# CSDA Vendor - Airbus U.S.
+@Airbus your page has the scary funding messages 
+```
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+We are in the process of migrating all NASA Earth science data sites into Earthdata from now until end of 2026. Not all NASA Earth science data and resources will appear here until then. Thank you for your patience as we make this transition. Read about the Web Unification Project
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/5e1a19d8-2118-4a2a-bd8b-edd23ec51209" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b47782b9-095b-4a5f-84e5-26ff2ec61521" />
+
+
+
+ 
+ @nasa-pds @nasa-jpl i called [@usgs last night @NIHGOV](https://www.facebook.com/permalink.php?story_fbid=pfbid02CbHf63UnAGXN14JSB6RTbRmeCTZQ76UAW97eptAZzVA1bd7zJrd5XQCXKibUU9nel&id=100084464911565) and some of my gumline vanished!  @cityoflosangles @stateofcalifornia 
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/6391bdfc-68ff-4f08-aec5-758fc67eb158" />
+CSDA Program Authorization Request Form 
+A user with this Earthdata login username already exists in the CSDA system. If this is a request for access to an additional vendors' data products, please resubmit without this username field filled in. Please contact the CSDA team for additional assistance if needed. thats not an outage @blackgirlscode, i forgot i signed up!
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da4cba2e-fa33-4db8-bf92-03473de35699" />
+
+
+[rashards data on @x](https://x.com/rashardsdata) now filtered by [Cloudflare](https://www.cloudflare.com/?utm_source=challenge&utm_campaign=l) :: [@cloudflare @nasa-jpl @stateofcalifornia](https://github.com/cloudflare)
+`Ray ID: 991d429329bbcb82`
+`https://x.com/account/access`
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid06996HkLH5FNGm6HVqKsEHAZVgvv8gAbsUGwbHVkqmCYgmr6w9cZ3Fv8Fjd4zy7PAl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[https://nasa-pds.github.io/PlanetPatrol/ @nasa-jpl @usgs @blackgirlscode @stateofcalifornia  ](https://nasa-pds.github.io/PlanetPatrol/)
+[https://pds-ppi.igpp.ucla.edu/](https://pds-ppi.igpp.ucla.edu/)
+
+[https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation](https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation)
+https://wgc.jpl.nasa.gov:8443 @nasa-jpl @nasa-pds @blackgirlscode @CityOfLosAngeles @stateofCalifornia @TheSpaceDevs
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0apjj7ka564C7Nda2zzuTzhLpEGBb1w4R2iYDSCKG7iozx4uCbnYfXCiCqMztpK8Yl%26id%3D100084464911565&show_text=true&width=500" width="500" height="584" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<img alt="image" src="https://github.com/user-attachments/assets/c1aaf698-b61f-4bc5-a019-a542cf971954" />
+
+![https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg](https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg) @noaagov @nasa-jpl @stateofcalifornia @blackgirlscode [Index of /ma-cdn03/GOES/data](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/)
+@whitehouse @dhs-gov
+[https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19](https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19)
+The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov.
+![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png)
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49000bdc-05d9-4450-957b-fcb0ffa53013" />
+
+![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png)
+
+[LaunCHDeetails : PDF @nasa-jpl @emit-sds](https://drive.google.com/file/d/1Y9uYVO0jXve9b7SVHZqZRu-m_jgjFtBm/preview) [@nasa https://pace.gsfc.nasa.gov/ @nasa-jpl @podaac](https://pace.gsfc.nasa.gov/)
+@BlackgirlsCode check with the @StateOfCalifornia @CityofLosAngeles
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+<img alt="image" src="https://github.com/user-attachments/assets/1048d11c-9716-4582-83f3-31d6650ae289" />
+
+
+# POES Satellites Decomissioned [@esa](https://earth.esa.int/eogateway/missions/noaa/objectives)
+@noaagov - pdf [Download](https://www.ospo.noaa.gov/assets/pdf/NOAA_NP_Booklet.pdf)
+
+_As part of the Space Weather Prediction Center's rollout of our improved website, the content from POES Auroral Activity Maps is being provided in a new way._ [READMORE https://www.swpc.noaa.gov/pmap](https://www.swpc.noaa.gov/pmap)
+[wiki](https://en.wikipedia.org/wiki/Polar_Operational_Environmental_Satellites)
+
+
+Please be advised that NOAA-15 and NOAA-19 have been decommissioned. NOAA-15 was decommissioned on August 19, 2025 at 20:37 UTC and NOAA-19 was decommissioned on August 13, 2025 at 16:55 UTC. For additional details, please [click here](https://www.ospo.noaa.gov/data/messages/2025/08/MSG_20250820_1410.html).
+Update #12:  NOAA-15 was successfully decommissioned on August 19, 2025 on rev 41828 at 1528 UTC.
+
+Update #11: This is the final reminder that NOAA-15 is scheduled to be decommissioned on August 19, 2025 from 1522 to 1537 UTC. NOAA-19 was passivated on August 13, 2025 Rev 85130 at 1655 UTC.
+
+Planet Patrol is a monitoring system for the Planetary Data System
+[View](https://nasa-pds.github.io/PlanetPatrol/) @nasa-pds @nasa-jpl @NASA-DEVELOP @blackgirlscode  @STATEOFCALiFORNIa 
+
+# NOAA Decomm ? @newshour  @nasa-jpl @emit-sds
+![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
+
+#### ["_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_**](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUdYBleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR6IQzec4krNbu-xceYkDD_kKohdttMvR4pr_iApGwp7oUI1LFj_-b4pWo7GdA_aem_OPRqBaBTukvStkYRclaOvg)
+@noaa i saw an article titled "_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_** [FULLARTiCLE`LinK`](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUcOhleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR7h3dRIKjzt-ArdVKEVmQmkO64bvYIa4YGnKSWH6xnAIhWxDsASnGUP_SWJPg_aem__Mxh1K4hdRJgzpstAjSCAA), @nasa-jpl that was yesterday and [DeepSpaceNetwork](https://eyes.nasa.gov/apps/dsn-now/)_[HelpDesk](https://x.com/thakasartu/status/1931030520860954828) is still [NSN](https://www.nasa.gov/near-space-network/) we even share the tool [SCaN Now](https://scan-now.gsfc.nasa.gov/scan) so if theres hardware that makes random pop ups and it stops i need to know im still working my inventory task from Charles Bolden and Jamie mantel @deptofdefense @nasa-pds @nasa-jpl @nasa and want to make sure everyone is on the same page with the Decomms . I left responses on [@meta Facebook](https://www.facebook.com/profile.php?id=100084464911565) but idk who see them, usually a woman with a lot of power and i still dont trust it... 
+what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pfbid0CKXur6CYpKv2rQZT2HU6mtgJFJM9uLLTobkktveGMBuW8xn56PWzETxiGp6emRr8l&id=100084464911565) [AirBus Boat](https://www.facebook.com/permalink.php?story_fbid=pfbid02WzgLUAQEo1825eSHrgdu7KR71RTufrqKujYxBTuCyEXqRZR44Z78r1AvrJ8Nv2REl&id=100084464911565) [JPSS](https://www.facebook.com/permalink.php?story_fbid=pfbid024FMDjGPfJfDszJkkgBmSRk8pMNZNgCESfenjotUk1HFF6b1rCN8bQaM8U3rKePHRl&id=100084464911565)
+
+[FacebookPostReads](https://www.facebook.com/permalink.php?story_fbid=pfbid02F2FS8vz5SAhPNsdNGdZoE5DFdMtNaKq1cYX7smuapBFZJwkDcXyV4ggPLHwBiBXil&id=100084464911565)  i dont want to get dinged for neglecting equipment. If this equipment is #Decommed2025 what does it mean for maintenace and tracking ? Who will bring the units back to earth ?
+
+# POES
+Polar Operational Environmental Satellite (POES)
+The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites. @NASA-GISS @nasa-pds @blackgirlscode 
+
+
+
+
+## Television Infrared Observation Satellite Program
+Launch
+# TIROS-1: April 1, 1960
+The TIROS Program (Television Infrared Observation Satellite) was NASA's first experimental step to determine if satellites could be useful in the study of the Earth. [LiNK](https://science.nasa.gov/mission/tiros/)
+
+<img width="168" height="189" alt="image" src="https://github.com/user-attachments/assets/b346b0bd-159d-47be-b788-9b780eb534ca" />
+
+
+<a href="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp"><img src="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp" style="width:228px;height:228px;" /></a>
+<img alt="image" src="https://github.com/user-attachments/assets/831ece38-b5e7-4913-8659-39ef11a79e95" />
+
+ SCaN Now! Space Communications and Navigation (SCaN) [LiNK](https://scan-now.gsfc.nasa.gov/)
+<img  alt="SCaN Now! Space Communications and Navigation (SCaN)" src="https://github.com/user-attachments/assets/cbe78e1c-a9ec-4705-84db-7848e0a5b9b1" />
+
+
+
+<img width="1808" height="874" alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
+
+![poes @noaagov](https://upload.wikimedia.org/wikipedia/commons/2/25/Operational_polar_satellites.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c09351b7-8115-49b0-9e4a-22e001d7fe9e" />
+
 
 
 # NAsaEarthDAta [https://www.earthdata.nasa.gov/](https://www.earthdata.nasa.gov/)
@@ -508,6 +796,21 @@ BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Glo
 [Portishead - dummy](https://youtu.be/cXf2bvfSKOs)
 
 
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
+
+[`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
+
+
 The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov. Automated data processing will continue to populate this site provided services do not require manual intervention. @nasa-jpl @nasa-develop
 <img  alt="image" src="https://github.com/user-attachments/assets/470a016d-1765-41d1-896d-a7fc9e7e316a" />
 
@@ -643,15 +946,11 @@ Dear MAyor (Karen Bass)
 
 
 
-## Proposition 64: The Adult Use of Marijuana Act
-Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
-Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
 
-[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
 
-[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
-
-[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
 
 
 ## WildFireS
@@ -760,6 +1059,42 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
