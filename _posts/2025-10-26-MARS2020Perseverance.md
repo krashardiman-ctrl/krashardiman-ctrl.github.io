@@ -12,7 +12,7 @@ author: "RashardKelly @nasa-jpl"
 
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
-#Mars Perseverance Sol 1499:
+# Mars Perseverance Sol 1499:
 Left Navigation Camera (Navcam)
 NASA's Mars Perseverance rover acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
 
