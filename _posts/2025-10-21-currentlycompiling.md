@@ -6,7 +6,76 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+
+
+[DuckStation] - [Demo]()
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid03xgJUwU4joJgkUwiz1w3rNYKTFVY1mu2sV99Xg1agFJyhinAjmcrhdYJnTzia3Csl%26id%3D100084464911565&show_text=true&width=500" width="500" height="374" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4V90nYGMzgeJNwjdlkdQsD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/235cefd9-3511-49e3-a1bd-d4b2ee28173e" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A145502026&color=%23646460&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/essential-mix" title="Essential Mix - BBC Radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">Essential Mix - @BBC Radio 1</a></div>
+
+
+
+# Mars Resources
+ I made some site changes but im learning to flow, the workblogging thing is supposed to feel like talking that never ceases for your bosses; the [ThakaRashard](https://thakarashard.github.io/) urls are really a particualr kind of talking that is like reporting only on me no context. They said i would make a lot of web pages. Im really intersted in leaning to secure them @cisagov @blackgirlscode @northropgrumman @caltech  [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/), 
+[Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
+
+@WUSTL-CSPL @wustl 
+re:  [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around [linktodoc](https://github.com/rashardsdata/rashardsdata.github.io/edit/master/_posts/2025-10-26-MARS2020Perseverance.md) @USnavy @deptofdefense
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+
+# While I was gone
+we got pushed around and settled in atlanta, and other ppl started spending time with me and i want everyone accounted for so i never disrupt a mission again... im sorry for missing [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/)
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-fb1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9cd1bec6-f524-4d22-8128-6ed242f544f2" />
+
+![europa @nasa-pds voyager](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) 
 
 # Outages
 I found a crispy [La Times](https://www.latimes.com/business/story/2025-10-20/amazon-cloud-computing-outage-disrupts-snapchat-ring-and-many-other-online-services) outside [Union Station](https://www.loc.gov/pictures/item/ca1312/) on my way to start my workday, [StFrancis](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) was open and i caught [breakFast @cityoflosangeles](https://www.stfranciscenterla.org/our-programs/) and rode the A into [Longbeach](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) to work out of [BillieJean](https://www.longbeach.gov/library/locations/main-library/) [@blackgirlscode](https://www.wearebgc.org/) i got angry on the train man . . .see comments on [metaFB](https://www.facebook.com/permalink.php?story_fbid=pfbid023a4sHtDkRBAsYSBEUz7oyoCrvBmeVi8HqGbrDZrd5UEFZQyZ9jnvceeUoBmkdq1ul&id=100084464911565)
