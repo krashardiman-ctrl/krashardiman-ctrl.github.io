@@ -7,8 +7,13 @@ image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.pn
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+# Mars Perseverance Sol 1664: Left Navigation Camera (Navcam)
+[Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
+This image was acquired on Oct. 25, 2025 (Sol 1664) at the local mean solar time of 11:09:30.
 ![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
 
+![](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
 
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
@@ -26,7 +31,14 @@ Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/s
 
 I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
 
-About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499]()
+
+
+I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
+_add filter_ : Filtering:Sol: 1499 to 1499 
+[ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
 
 
 ![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
@@ -39,6 +51,9 @@ Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar la
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
+
+![Mailin Space Science Systems](msss.com/images/msss_logo.gif)
 
 # _.fits_
 [.fits](https://fits.gsfc.nasa.gov/)
