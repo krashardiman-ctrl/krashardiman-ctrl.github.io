@@ -17,16 +17,41 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 ## NASA Appropriations and Authorizations: At a Glance
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
-Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. 
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
+
+
+At Glance
+
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+
+:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES, AFL-CIO et
+al.,
+Plaintiffs,
+ v.
+UNITED STATES OFFICE OF
+MANAGEMENT AND BUDGET
+[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
 
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3329802-c111-43ff-a017-d7385cd99618" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [comment]: <> (Emergency Files )
 
 
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+[NOAA-Affiliated-Projects](https://github.com/rashardsdata/NOAA-Affiliated-Projects_RashardJPLlist) 
 [nowcoast.noaa.gov/](https://nowcoast.noaa.gov/)
 - _Imagine navigating a vessel along the coast and planning the approach to your destination What factors affecting the movement of the vessel?_ [ReadmrE](https://nauticalcharts.noaa.gov/updates/data-dissemination-web-interface-supports-navigation/#more-184565)
 - 
@@ -1180,6 +1205,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
