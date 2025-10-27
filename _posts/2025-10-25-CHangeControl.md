@@ -26,6 +26,18 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 [comment]: <> (Emergency Files )
 
+
+ 
+
+![@NOAA-OWP](https://www.pmel.noaa.gov/sites/all/themes/pacific_marine/images/pmel_logo_full.png)
+[www.pmel.noaa.gov/](https://www.pmel.noaa.gov/)
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, visit [@commercegov](https://www.commerce.gov/news/blog).
+
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+<img  alt="image" src="https://github.com/user-attachments/assets/03ad9450-a0a0-4874-8fb5-e570d1d4ea9a" />
+
+
 @ISRO @isrox 
 ## Photojournal went through massive redesign, blog hotlinks collapsed 
 @ESA 
@@ -1145,6 +1157,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
