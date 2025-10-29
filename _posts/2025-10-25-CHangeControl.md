@@ -16,6 +16,11 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
 ## NASA Appropriations and Authorizations: At a Glance
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) 
+@nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov 
+@Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
+@TheSpaceDevs
+
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
@@ -42,8 +47,6 @@ AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/35a57fdb-e620-48e9-8ecd-65adc5e6137d" />
 
-<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
-<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -1242,6 +1245,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
