@@ -9,6 +9,11 @@ author: "RashardKelly @nasa-jpl"
 date:   2025-10-22 16:51:06 
 permalink: /changelog
 ---
+[my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+
 
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
@@ -1191,6 +1196,18 @@ This philosophy was exemplified in [Fallingwater (1935)](https://fallingwater.or
 ![FallingWater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/640px-Fallingwater3.jpg) [Frank Lloyd Wright's Fallingwater: Inside the House That Forever Changed Architecture](https://www.youtube.com/watch?v=mwGz58GIFYQ) 
 
 
+# Viking Project
+![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
+### OCCURRED 47 YEARS AGO
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+### PIA02985: Dust storm in the Thaumasia region of Mars
+#### Original Caption Released with Image:
+This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region on Mars. This large disturbance soon grew into the first global dust storm observed by the Viking Orbiters. This image was taken at 9:00 local time near perihelion when heating of Mars is at a maximum. The image is at 1400 km across and north is at 1:00. (Viking Orbiter 176B02).
+
+Image Credit:
+[NASA/JPL](https://github.com/customer-stories/jpl)
+![p](https://photojournal.jpl.nasa.gov/jpeg/PIA02985.jpg)
 
 [Seal of Los Angeles County, California](https://en.wikipedia.org/wiki/Seal_of_Los_Angeles_County,_California)
 
@@ -1248,6 +1265,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
