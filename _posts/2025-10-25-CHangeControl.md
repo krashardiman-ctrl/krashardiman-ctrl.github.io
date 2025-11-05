@@ -14,6 +14,12 @@ permalink: /changelog
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
 
+# Lapse in Appropriations Contingency Plan
+[link](https://home.treasury.gov/lapse-in-appropriations-contingency-plans)
+The radical left has chosen to shut down the United States government in the name of reckless spending and obstructionism. As a result, the U.S. Department of the Treasury’s websites will only be sporadically updated until this shutdown concludes. Please refer to [Treasury’s contingency plans](https://home.treasury.gov/lapse-in-appropriations-contingency-plans) for more information
+
+<img  alt="image" src="https://github.com/user-attachments/assets/91ddded5-e7ae-438b-b540-997780f76dc1" />
+
 
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
@@ -1440,6 +1446,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
