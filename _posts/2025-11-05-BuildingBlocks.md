@@ -32,6 +32,18 @@ data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf"
   width="250"
   height="200"></object>
 ```
+
+<object
+  data="https://eyes.nasa.gov/curiosity/" 
+  type="text/html"
+  width="250"
+  height="200"></object>
+
+<object
+data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" 
+  type="application/pdf"
+  width="250"
+  height="200"></object>
 <img  alt="image" src="https://github.com/user-attachments/assets/0b665b1e-3585-48ee-b1fa-975536e609c4" />
 
 @blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
