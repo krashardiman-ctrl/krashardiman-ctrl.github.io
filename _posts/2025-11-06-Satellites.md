@@ -14,7 +14,7 @@ author: "RashardKelly @nasa-jpl"
 # N.A.S.A. space station 
 @TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
 Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
-Caption for frame no. 25: Chairman F. James Sensenbrenner Jr., R-Wis., makes his opening statement before the start of the House Science Committee hearing on the space station.
+Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congress.gov/member/f-sensenbrenner/S000244)., R-Wis., makes his opening statement before the start of the [House Science Committee](https://science.house.gov/) hearing on the space station. [ScienceDems @whitehouse @stateofcalifornia](https://democrats-science.house.gov/)
 
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
 
