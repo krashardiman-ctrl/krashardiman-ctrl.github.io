@@ -71,18 +71,26 @@ New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday,
 
 
 # @NASA iNSight LAnding
-[LaunchFacts](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/) 
+[LaunchFacts / PRESSkiT](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/) 
 
-@nasa-jpl @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
+[@nasa-jpl](https://astrobiology.nasa.gov/missions/insight/) @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
 [Link @blueorigin @TheSpaceDevs @nasa-pds](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing/start/60/end/182.7) 
 [1944](https://archive.org/details/CaptainAmerica1944Serial1/Captain+America_+1944+Serial+-+%231.mp4)
 
 <img  alt="image @blueorigin" src="https://github.com/user-attachments/assets/34f61e5b-3abd-455b-ae8c-95a2a7942b8e" /> 
 <iframe width="640" height="480" frameborder="0" allowfullscreen src="https://archive.org/embed/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing?start=60&end=120" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39a0fa65-b941-4251-9b09-f44e8952c714" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/d06e9eb7-3346-4952-8b18-5f4460a7233a" />
 
 @blackgirlscode [Lockheed insight trailer @nasa-jpl @isro](https://youtu.be/C0lwFLPiZEE) 
 [Lockheed - insight data](https://www.lockheedmartin.com/en-us/products/insight-mars-lander.html) 
+
+![@nasa insight](https://www.jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4JFYy_Lb5Y?si=LHQ9btpaeBnr3tzO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a>
 
 <object  data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf"></object> 
@@ -128,6 +136,11 @@ NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/downloa
 [Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
 Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space. In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+
+![insight](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
+
 
 {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
