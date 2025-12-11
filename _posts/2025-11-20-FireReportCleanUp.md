@@ -22,10 +22,15 @@ catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fi
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
+2 # TO#################LATrice😢imsorry########################
 3 # ANOTHER###############################################
-4 # UNiVERSE########@BlackGirLSCode Who is Brandy?########
+4 # UNiVERSE###@BlackGirLSCode Im plotting Displacement########
 {% endhighlight %}
+
+
+LosAnGeles Displacement CSV Data @asfadmin for @cityoflosangeles 
+[CouncilWoman Traci Park](https://cd11.lacity.gov/about/traci-park) - [download .csv file](https://github.com/ThakaRashard/rashardlearned/blob/master/assets/plots/asf-opera-displacement-2025-12-10_04-16-35.csv)
+<img  alt="image" src="https://github.com/user-attachments/assets/22b7dd88-b5ae-49dd-94b8-345f40dc5031" />
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
