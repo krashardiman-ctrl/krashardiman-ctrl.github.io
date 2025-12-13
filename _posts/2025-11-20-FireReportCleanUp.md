@@ -29,7 +29,12 @@ catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fi
 
 BKN CLDS SMOKE?
 
-![Aviris f250501t01p00r09_geo.jpeg](https://aviris.jpl.nasa.gov/ql/25qlook/f250501t01p00r09_geo.jpeg)
+
+<img src="https://aviris.jpl.nasa.gov/ql/25qlook/f250501t01p00r09_geo.jpeg" alt="ECO image"/>
+
+
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
 
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
