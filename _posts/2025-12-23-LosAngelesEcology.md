@@ -23,6 +23,55 @@ date:   2025-10-09 8:51:06
 <img  alt="image" src="https://github.com/user-attachments/assets/aa9c0836-d2d5-4552-a25d-f0be4ccaad4c" />
 
 
+### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
+July 21, [2025](https://youtu.be/4abP93C1MAU) 
+
+The heat lingered into the evening hours, as captured by NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station ( [ECOSTRESS](https://ecostress.jpl.nasa.gov/) ) instrument. - [read](https://www.jpl.nasa.gov/images/pia26651-nasas-ecostress-captures-short-lived-heat-wave-in-la-area/) 
+
+![jpegPIA26651](https://github.com/user-attachments/assets/01f68834-d643-4107-9acc-b40f5b41988c)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+### The 1992 Los Angeles riots/uprising
+Was a series of riots and civil disturbances that occurred in Los Angeles County, California, United States, during April and May 1992.
+[wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots) : [wikiTalk](https://en.wikipedia.org/wiki/Talk:1992_Los_Angeles_riots)
+
+Documentary
+- [LA 92 Full Doc National Geographic](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) [LA92 _ Trailer](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) @natgeosociety
+[youtube](https://youtu.be/uaotkHlHJwo?si=j5SGrNoepeT_i2UR)
+[@netflix](https://www.netflix.com/title/80184131) @StateOfCalifornia : LongBeach Public Library `Oh no! This title currently isn’t available to watch in your country.` + [DiscussionGuide](https://films.nationalgeographic.com/la-92-discussion-guide)  @nasa-jpl @emit-sds @whitehouse @cityoflosangeles @blackgirlscode
+- The Day After the L.A. Riots (1992 Life & Times Broadcast)  
+@PBS SoCal [Watch](https://youtu.be/dujzeuh_8mU)
+- L.A.’s 1992 Civil Unrest: The Causes and Legacy
+USC Dornsife College of Letters, Arts and Sciences [Watch](https://youtu.be/BTNzW9wM-Wo) @NetDem-USC
+<img alt="image" width="50%" src="https://github.com/user-attachments/assets/8896c63c-8c49-4fd2-a111-cb9e56153152" />
+
+
+
+
+1992 LA RIOTS @CityOfLosAngeles
+[Harvey](https://www.linkedin.com/in/harvey-levin-997229304) [Levin](https://www.imdb.com/name/nm0505608/) - before [TMZ](https://youtu.be/np0XaQqwGYM?si=4EuYiL4C-twApUBw) - reporting for CBS LA
+@cbs-news-data  @blackgirlscode [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0UPGVWwjTMcVQ6TxgbimptHaYVa16oiSUxk6uTmuKEjDzQyKuY97U6LfZ8MQ2Rz36l&id=100084464911565)
+[watch](https://www.youtube.com/watch?v=YqA1Qj2MAu0)
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO#################LATrice########################
+3 # ANOTHER###############################################
+4 # UNiVERSE###@BlackGirLSCode Im plotting Displacement########
+{% endhighlight %}
+
+
+LosAnGeles Displacement CSV Data @asfadmin [for](https://registry.opendata.aws/nasa-operal3disp-s1v1/) @cityoflosangeles 
+[CouncilWoman Traci Park](https://cd11.lacity.gov/about/traci-park) - [download .csv file](https://github.com/ThakaRashard/rashardlearned/blob/master/assets/plots/asf-opera-displacement-2025-12-10_04-16-35.csv)
+<img  alt="image" src="https://github.com/user-attachments/assets/22b7dd88-b5ae-49dd-94b8-345f40dc5031" />
+
+
 Tink - Fake Love [watch](https://youtu.be/FSlFD6DnxeQ?list=RDFiGAkDE7s7o)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/90c8f0c4-c7de-4c97-8102-e37f6df8d6f3" />
@@ -47,11 +96,6 @@ Map of California Subsidence and Uplift
 Scientists mapped land sinking (indicated in blue) in coastal California cities and in parts of the Central Valley due to factors like soil compaction, erosion, and groundwater withdrawal. They also tracked uplift hot spots (shown in red), including i... Credit: NASA Earth Observatory
 
 ![californis land motion](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA25530.jpg)
-
-### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
-July 21, [2025](https://youtu.be/4abP93C1MAU) 
-
-The heat lingered into the evening hours, as captured by NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station ( [ECOSTRESS](https://ecostress.jpl.nasa.gov/) ) instrument. - [read](https://www.jpl.nasa.gov/images/pia26651-nasas-ecostress-captures-short-lived-heat-wave-in-la-area/) 
 
 ![jpegPIA26651](https://github.com/user-attachments/assets/01f68834-d643-4107-9acc-b40f5b41988c)
 
@@ -583,6 +627,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
