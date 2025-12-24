@@ -16,6 +16,12 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 ### Los Angeles County
+@CityOfLosAngeles @StateOfCalifornia we have a dataset compiled that will let you explore the power plants in America
+@whitehouse @nasa-jpl @blackgirlscode @emit-sds @nasa-pds
+[View Map](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,steel_plants,country-outline,hlsl30-ndvi,hlss30-ndvi,firefly;@-113.6,35.2,6.8z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aa9c0836-d2d5-4552-a25d-f0be4ccaad4c" />
+
 
 Tink - Fake Love [watch](https://youtu.be/FSlFD6DnxeQ?list=RDFiGAkDE7s7o)
 
@@ -577,6 +583,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
