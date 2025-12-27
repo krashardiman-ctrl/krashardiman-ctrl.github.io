@@ -19,7 +19,7 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
-[lnk](https://vsco.co/rashardsartu/media/6926a83e4abf98cae29b3d53) 
+[Link](https://vsco.co/rashardsartu/media/6926a83e4abf98cae29b3d53) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4f9fbf92-863d-44b1-8ccc-a7a32dd4c162" />
 
