@@ -1,6 +1,5 @@
-
-
-# Rashard Kelly NasaJpl MRO JUNO iSS
+# [Rashard Kelly](https://rashard-ecostress-jpl-iss.github.io/)
+## NasaJpl MRO JUNO iSS [[1](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master)] [[2](https://kellyrashardiman.github.io/)]
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
@@ -27,6 +26,244 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+[DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
+[Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
+
+![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9975a70b-359a-4606-b8a3-a5fd2b3fb17e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/26f1c3d5-e506-48dd-9a0d-72ab7f396734" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7ed75d62-19c3-43fb-8c2f-f9edafe8322b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9a1f34ca-df5c-4e44-8bee-e74462a2c042" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3ee61892-fcbb-4f9c-92b2-4e76abf6c002" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/16565093-f74d-4bda-b972-8dd544d768fb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/82cff5ae-027e-45f1-a1a0-02535108e223" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/23816c11-44be-4c2c-99ec-51bf2c1f02ce" />
+<img   alt="image" src="https://github.com/user-attachments/assets/36799593-f2af-4005-92ef-fa19a28412da" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb7c6fe4-83a3-42db-b2ff-6009e383d45d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/31111ad4-38f7-445d-97b5-fae0312a335e" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/91c3087b-bb24-449f-b759-fba026730c02" />
+<img alt="image" src="https://github.com/user-attachments/assets/997a7178-74d9-4e61-abba-b9ab085d2fe7" />
+
+
+NewSkills : coalace for robotic story boarding 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6ad49286-bd9f-4037-bc7e-de448b5fe282" />
+
+![hirise M R O](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_090200_090299/ESP_090296_1490/ESP_090296_1490_MIRB.browse.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
+[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/889f8485-2d1f-44b6-a32b-fc433436b53e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
+
+<img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4419f9f9-f56f-4c9e-9ff4-f275b43e6566" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e25cb230-8830-46da-a9e5-63917d816ce2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f508a5e5-9c13-4a7d-813e-85e66bb881e4" />
+
+<img alt="Latrice_518836128-8682f3e1-81d0-4fec-9a20-039bd10c1add" src="https://github.com/user-attachments/assets/f55da2e4-aafa-41ca-a608-f6459be695eb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a746d988-14c6-43c9-91d9-a82288d494f2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b19770e8-b03e-43ca-b039-276ab767c6a3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39f3dee0-5d11-49ee-8e2c-71121b5c3ff9" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/594a9e34-f93c-4374-a5af-c10259fc37f5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/86f17cd0-8544-471e-9035-dd009ec50b21" />
+
+<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0f6cffdb-80e1-4eba-a131-5d7d34a15a39" />
+
+![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5b70babd-b3fc-484b-9871-f525d4c295cc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b55e065-2d8e-4131-80aa-8b97d064bc81" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2290c164-01b5-409c-8278-8800ad2f9d30" />
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/bf20ad74-9105-4fb5-b2f6-23220aad31ba" />
+<img alt="image" src="https://github.com/user-attachments/assets/45b60d13-3b8d-415a-a544-f9ad7d5324a2" />
+<img alt="image" src="https://github.com/user-attachments/assets/c25c0588-1ddf-40d5-9266-9fb163d16db4" />
+
+@blackgirlscode @nasa-jpl 
+<img   alt="image" src="https://github.com/user-attachments/assets/a2992f3b-c188-4d42-813f-e7cb1562e065" />
+
+[@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
+<img alt="image" src="https://github.com/user-attachments/assets/d212c1f5-a854-480f-8d17-3cee617536b4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f9f4c10-f511-4112-b401-d22735f22b79" />
+
+
+![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
+[Introduction to the CDSE website and Copernicus Browser](https://youtu.be/GecNCdilbig) <~ `HOMEWORK!` 
+`DATAPRoDuCT!` ~> [browser.dataspace.copernicus.eu @podaac @blackgilscode @nasa-jpl @whitehouse @Cityoflosangeles @StateofCalifornia](https://browser.dataspace.copernicus.eu/?zoom=7&lat=34.31551&lng=-118.20968&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19CfAtfewtzv5kYlONWnlpXnpY%2Bor3NOMKTf%2FVYPesB9%2BssYQzSXXADxmZ2Rm9JHz%2B6xAHix815EdGBIYInfOZ7%2BcgiDZy0GoSdSOdwkiDV8I7eWhEdLDIn&datasetId=S3OLCI_CDAS&fromTime=2023-02-10T00%3A00%3A00.000Z&toTime=2023-02-10T23%3A59%3A59.999Z&layerId=2_OTCI&demSource3D=%22MAPZEN%22&cloudCoverage=13&dateMode=SINGLE)
+<img  alt="image" src="https://github.com/user-attachments/assets/5a1b1815-6755-4ab2-970e-bafa9521856c" />
+
+hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+@nasa-pds @podaac @cityoflosangeles @stateofcalifornia 
+date:   2024-11-18 22:51:06 -0800
+<img alt="image" src="https://github.com/user-attachments/assets/a66514a7-e84e-4593-a821-2bb5870a0ebe" />
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+
+
+# [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+ [watchVid](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+
+
+[@emit-sds - rashards ecostress hackathon sub](https://github.com/ThakaRashard/rashardmro/commit/5b333ec4f5e2c2c85280d17f1892ebd0f79f4058#diff-097a54917a481915404192fd7a8be0c6ba10a4e93d0168b6aeca44cd138f3a32)
+
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
+![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
+![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88e9c7b6-cc5c-4282-885f-d72753917d92" />
 
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
